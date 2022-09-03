@@ -11,7 +11,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - Built with
   - Continued development
   - Useful resources
-- Author
 
 
 ## Overview
@@ -26,8 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://michalbednar.github.io/Review-card-component/)
 
 ## My process
 
@@ -44,9 +42,4 @@ I had problems with flexbox, so I will need to really work on that more.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-
-
-## Author
-
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- [Stack Overflow](https://stackoverflow.com/questions/30460681/changing-image-src-depending-on-screen-size) - This article helped me with image changing depending on width.
